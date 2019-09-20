@@ -29,6 +29,7 @@ I am a QA Engineer with several years experience of working on different project
 - Lecturing
 ## Code example
 ```javascript
+
 const PHONE_PRICE = 99.99;          //цена телефона
 const ACCESSORY_PRICE = 9.99;       //цена аксессуара
 const TAX = 0.09;                   //налог
@@ -51,6 +52,7 @@ while (amount < bill) {
 }
 
 console.log('insufficient funds in the account');
+
 ```
 ## Experience 
 ### Resent Projects:
