@@ -1,9 +1,9 @@
 # Irina Chistobaeva
-## Contact Info:
+## Contact Info
 * +375 25 700 43 77
 * Skype: rishachistobaeva
 * chistobaevairina@gmail.com
-## Summary:
+## Summary
 I am a QA Engineer with several years experience of working on different projects. My goal is to learn and practice front end technologies to get wide understanding of working web-applications and ability to automate my work in future.
 ## Skills
 ### QA and general skills:
@@ -27,7 +27,7 @@ I am a QA Engineer with several years experience of working on different project
 - Mentoring trainees
 - Interviewing and assessment
 - Lecturing
-## Code example:
+## Code example
 ```javascript
 const PHONE_PRICE = 99.99;          //цена телефона
 const ACCESSORY_PRICE = 9.99;       //цена аксессуара
@@ -88,3 +88,6 @@ QA Engineer
 * Cross-testing
 * Cross-platform testing
 * Reviewed test documentation of another QA team member
+## Education 
+* Belarusian State University, Geographic information system, 2014
+* Continuous self-training 
