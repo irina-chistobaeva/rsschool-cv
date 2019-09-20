@@ -1,11 +1,15 @@
 # Irina Chistobaeva
+
 ## Contact Info
 * +375 25 700 43 77
 * Skype: rishachistobaeva
 * chistobaevairina@gmail.com
+
 ## Summary
 I am a QA Engineer with several years experience of working on different projects. My goal is to learn and practice front end technologies to get wide understanding of working web-applications and ability to automate my work in future.
+
 ## Skills
+
 ### QA and general skills:
 - Various types of testing
 - Creating test artifacts (test cases, test suites, check lists, bug-reports)
@@ -17,12 +21,14 @@ I am a QA Engineer with several years experience of working on different project
 - Methodologies:
   - Scrum
   - Iterative and incremental development
+
 ### Technical skills:
 - HTML/CSS
 - JS basis
 - Visual Studio Code
 - Oracle and SQL
 - Postman, Swagger, Fiddler
+
 ### Soft skills:
 - Mentoring trainees
 - Interviewing and assessment
@@ -56,7 +62,9 @@ console.log('insufficient funds in the account');
 
 ```
 ## Experience 
+
 ### Resent Projects:
+
 #### Management event project, management events system, Finland
 Three web-applications and one mobile application of project management for the creation and development of large scale events. 
 ##### Role: 
@@ -77,6 +85,7 @@ QA Engineer
 * Cross-platform testing
 * Mentoring trainees
 * Team-lead duties: tasks assigning, QA team support and coordinating, checking following the flow, etc.
+
 #### KindieDays, communication, Finland 
 Application that helps teachers and parents communicate and collaborate in real-time. The Project is consist of four IOS and Android applications and 1 Web. 
 ##### Role: 
@@ -91,8 +100,10 @@ QA Engineer
 * Cross-testing
 * Cross-platform testing
 * Reviewed test documentation of another QA team member
+
 ## Education 
 * Belarusian State University, Geographic information system, 2014
 * Continuous self-training 
+
 ## English 
 * Pre-Intermediate
