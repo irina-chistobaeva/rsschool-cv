@@ -51,10 +51,10 @@ while (amount < bill) {
 }
 
 console.log('insufficient funds in the account');
- ```       
- ## Experience 
- ### Resent Projects:
- #### Management event project, management events system, Finland
+```
+## Experience 
+### Resent Projects:
+#### Management event project, management events system, Finland
 Three web-applications and one mobile application of project management for the creation and development of large scale events. 
 ##### Role: 
 QA Engineer
@@ -91,3 +91,5 @@ QA Engineer
 ## Education 
 * Belarusian State University, Geographic information system, 2014
 * Continuous self-training 
+## English 
+* Pre-Intermediate
