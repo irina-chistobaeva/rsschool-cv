@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Irina Chistobaeva | CV</title>
+</head>
+<body>
+    <div class="allContent">
+        <header>
+            <h1>Irina Chistobaeva</h1>
+            <hr />
+        </header>
+        <main>
+            <img src="photo.jpg">
+
+            <h2>Contact Info</h2>
+            <ul>
+                <li>+375 25 700 43 77</li>
+                <li>Skype: rishachistobaeva</li>
+                <li>chistobaevairina@gmail.com</li>
+            </ul>
+
+            <h2 id="summary">Summary</h2>
+            <p>I am a QA Engineer with several years experience of working on different projects. My goal is to learn
+                and
+                practice front end technologies to get wide understanding of working web-applications and ability to
+                automate my
+                work in future.</p>
+
+            <h2>Skills</h2>
+
+            <h3>QA and general skills:</h3>
+            <ul>
+                <li>Various types of testing</li>
+                <li>Creating test artifacts (test cases, test suites, check lists, bug-reports)</li>
+                <li>Working with test management and bug tracking systems:
+                    <ul>
+                        <li>Targetprocess</li>
+                        <li>Jira and Confluence</li>
+                        <li>Zephyr</li>
+                        <li>TestRail</li>
+                        <li>Trello</li>                        
+                    </ul>
+                </li>
+                <li>Methodologies:
+                    <ul>
+                        <li>Scrum</li>
+                        <li>Iterative and incremental development</li>
+                    </ul>
+                </li>
+                <li>Planning and estimating</li>
+            </ul>
+
+            <h3>QA and general skills:</h3>
+            <ul>
+                <li>HTML/CSS</li>
+                <li>JS basis</li>
+                <li>Visual Studio Code</li>
+                <li>Oracle and SQL</li>
+                <li>Postman, Swagger, Fiddler</li>
+            </ul>
+
+            <h3>Soft skills:</h3>
+            <ul>
+                <li>Mentoring trainees</li>
+                <li>Interviewing and assessment</li>
+                <li>Lecturing</li>
+            </ul>
+
+            <h2>Code example</h2>
+            <code>
+            const PHONE_PRICE = 99.99;          //цена телефона <br>
+            const ACCESSORY_PRICE = 9.99;       //цена аксессуара <br>
+            const TAX = 0.09;                   //налог <br>
+            
+            let bill = prompt("Please tell me your bill:"); <br>
+            let amount = 0; <br>
+            
+            function taxRate(amount) { <br>
+                return amount * TAX; <br>
+            } <br>
+            
+            function formatAmount(amount) { <br>
+                return "$" + amount.toFixed(2); <br>
+            } <br>
+            
+            while (amount < bill) { <br>
+                amount = amount + PHONE_PRICE + ACCESSORY_PRICE; <br>
+                amount = amount + taxRate(amount); <br>
+                console.log(formatAmount(amount)); <br>
+            } <br>
+            
+            console.log('insufficient funds in the account'); <br>
+        </code>
+
+            <h2>Experience</h2>
+            <h3>Resent Projects:</h3>
+
+            <h4>Management event project, management events system, Finland</h4>
+            <p>Three web-applications and one mobile application of project management for the creation and development
+                of
+                large
+                scale events.</p>
+
+            <h4>Role:</h4>
+            <p>QA Engineer</p>
+
+            <h4>Responsibilities:</h4>
+            <ul>
+                <li>Learning technical requirements</li>
+                <li>Participate in different meetings with multinational QA team members to discuss the testing and
+                    problem
+                    solving process</li>
+                <li>Communicating with the customers</li>
+                <li>Writing test documentation: test cases, bug-reports</li>
+                <li>Smoke testing</li>
+                <li>Exploratory testing</li>
+                <li>Functional testing</li>
+                <li>Regression testing</li>
+                <li>GUI testing</li>
+                <li>API testing</li>
+                <li>Cross-testing</li>
+                <li>Cross-browser testing</li>
+                <li>Cross-platform testing</li>
+                <li>Mentoring trainees</li>
+                <li>Team-lead duties: tasks assigning, QA team support and coordinating, checking following the flow,
+                    etc.
+                </li>
+            </ul>
+
+            <h4>KindieDays, communication, Finland</h4>
+            <p>Application that helps teachers and parents communicate and collaborate in real-time. The Project is
+                consist
+                of
+                four IOS and Android applications and 1 Web.</p>
+
+            <h4>Role:</h4>
+            <p>QA Engineer</p>
+
+            <h4>Responsibilities:</h4>
+            <ul>
+                <li>Writing test documentation: test cases, bug-reports</li>
+                <li>Smoke testing</li>
+                <li>Exploratory testing</li>
+                <li>Functional testing</li>
+                <li>Regression testing</li>
+                <li>GUI testing</li>
+                <li>Cross-testing</li>
+                <li>Cross-platform testing</li>
+                <li>Reviewed test documentation of another QA team member</li>
+            </ul>
+
+            <h2>Education</h2>
+            <ul>
+                <li>Belarusian State University, Geographic information system, 2014</li>
+                <li>Continuous self-training</li>
+            </ul>
+
+            <h2>English</h2>
+            <ul>
+                <li>Pre-Intermediate</li>
+            </ul>
+        </main>
+    </div>
+</body>
+</html>
