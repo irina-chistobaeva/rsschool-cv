@@ -63,3 +63,49 @@ while (amount < bill) {
 console.log('insufficient funds in the account');
 
 ```
+## Experience 
+
+### Resent Projects:
+
+#### Management event project, management events system, Finland
+Three web-applications and one mobile application of project management for the creation and development of large scale events. 
+##### Role: 
+QA Engineer
+##### Responsibilities: 
+* Learning technical requirements
+* Participate in different meetings with multinational QA team members to discuss the testing and problem solving process
+* Communicating with the customers
+* Writing test documentation: test cases, bug-reports
+* Smoke testing
+* Exploratory testing
+* Functional testing
+* Regression testing
+* GUI testing
+* API testing
+* Cross-testing
+* Cross-browser testing
+* Cross-platform testing
+* Mentoring trainees
+* Team-lead duties: tasks assigning, QA team support and coordinating, checking following the flow, etc.
+
+#### KindieDays, communication, Finland 
+Application that helps teachers and parents communicate and collaborate in real-time. The Project is consist of four IOS and Android applications and 1 Web. 
+##### Role: 
+QA Engineer
+##### Responsibilities: 
+* Writing test documentation: test cases, bug-reports
+* Smoke testing
+* Exploratory testing
+* Functional testing
+* Regression testing
+* GUI testing
+* Cross-testing
+* Cross-platform testing
+* Reviewed test documentation of another QA team member
+
+## Education 
+* Belarusian State University, Geographic information system, 2014
+* Continuous self-training 
+
+## English 
+* Pre-Intermediate
